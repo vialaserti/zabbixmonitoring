@@ -719,5 +719,12 @@
     "address": "Av. Interlagos, N 2255, São Paulo",
     "latitude": -23.40343,
     "longitude": -46.40418
-  }
+  },
+    {
+    "key": "104",
+    "name": "Vialaser | São José dos Campos | Shopping Colinas",
+    "address": "Av. São João, N 2200, São Paulo",
+    "latitude": -23.2052587,
+    "longitude": -45.907976399999995
+  }  
 ]
